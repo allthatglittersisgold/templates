@@ -20,8 +20,7 @@ using namespace std;
 #define exp 1e9
 #define sz(x) (int((x).size()))
 
-int32_t main()
-{
+int32_t main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int ttt; cin >> ttt;
